@@ -12,8 +12,8 @@ These pages are here to answer questions and help you make the most of Telegram.
 ## Recipes
 
 * [Change the page footer](/recipes/change_footer) - ändere den Seiten Footer
-* [Change the template](/recipes/change_template)
-* [Add a Twitter Feed](/recipes/add_twitter_feed)
+* [Change the template](/recipes/change_template) - ändere das Template
+* [Add a Twitter Feed](/recipes/add_twitter_feed) - füge einen Twitter Feed hinzu
 * [Host a custom domain](/recipes/custom_domain)
 * [See my site locally](/recipes/live_and_local)
 
